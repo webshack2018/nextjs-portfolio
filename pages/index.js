@@ -43,11 +43,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               A Passionate Full Stack Web Developer. Currently Working on Web Development Projects also Learning Bootstrap, React.JS,Angular,Vue.JS and Exploring the Latest Technologies.
-
-
-            </p>
-            
-            
+           </p>
           </div>
         </section>
 
