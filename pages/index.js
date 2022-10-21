@@ -1,8 +1,7 @@
 import Head from "next/head";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
-import deved from "../public/dev-ed-wave.png";
-import Image from "next/image";
+
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
